@@ -1,8 +1,2 @@
 # Fruta
-School Project
-
-#include <stdio.h>
-
-int main(){
-printf("Hello World");
-}
+프루타 학교 프로젝트
